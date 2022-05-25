@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Lukas Leisten
 - 💼 I'm the youngest entrepreneur in Germany.
-- 🔭 I’m currently working on this projects **Distrikt, Tynopia, VanityLife, Die Insel**
+- 🔭 I’m currently working on this projects **Distrikt, Tynopia, VanityLife, Die Insel, Net-RP**
 - 📫 How to reach me **support@tynopia.net**
 
 <br/>
