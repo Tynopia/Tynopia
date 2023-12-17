@@ -16,5 +16,5 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=tynopia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tynopia&theme=dark&hide_border=false)<br/>
+<%- await embed(`example-languages-pdf`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
+![](https://github.com/Tynopia/Tynopia/blob/main/metrics.plugin.isocalendar.fullyear.svg)<br/>
