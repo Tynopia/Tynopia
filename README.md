@@ -16,5 +16,4 @@
 
 <br/>
 
-<%- await embed(`example-languages-pdf`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
 ![](https://github.com/Tynopia/Tynopia/blob/main/metrics.plugin.isocalendar.fullyear.svg)<br/>
